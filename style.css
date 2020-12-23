@@ -1,0 +1,12 @@
+body{
+  margin:0;
+  height:100vh;
+}
+canvas{
+  display:block;
+}
+.inputs{
+  display:inline-block;
+  position:fixed;
+  left:80px;
+}
